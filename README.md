@@ -13,6 +13,10 @@ Components
 Pages Routes
 Not Found Page Are Completed today :
 
---> today Installation :- create router dom, react-icons, 
+--> today Installation :- create router dom, react-icons, :- 1 hour 35 minutes zalay
+
+
+--> 17-02-25
+-json.server installed and fetching the { job }data from this server 
 
 
